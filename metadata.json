@@ -1,0 +1,6 @@
+{
+  "name": "NK APP",
+  "description": "Native Android app featuring an AI Assistant powered by Google Gemini, Google Search browser, Brave-style content blocking, and strict no-history privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

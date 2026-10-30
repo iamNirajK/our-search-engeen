@@ -1,0 +1,11 @@
+{
+  "name": "nk-app-backend",
+  "version": "1.0.0",
+  "description": "Secure Gemini API backend proxy for NK APP with streaming, rate limiting, and zero conversation retention",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "private": true
+}

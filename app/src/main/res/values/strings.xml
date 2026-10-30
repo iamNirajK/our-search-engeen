@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NK APP</string>
+    <string name="title_home">NK APP</string>
+    <string name="btn_ai_assistant">AI Assistant</string>
+    <string name="btn_google_search">Google Search</string>
+    <string name="desc_ai_assistant">Ask Gemini in English, Hindi, or Hinglish</string>
+    <string name="desc_google_search">Private search with ad &amp; tracker blocking</string>
+    <string name="btn_new_chat">New Chat</string>
+    <string name="chat_placeholder">Ask anything (code, math, writing)...</string>
+    <string name="search_placeholder">Search Google or enter URL...</string>
+    <string name="privacy_note">No chat or search history is saved on this device.</string>
+</resources>
